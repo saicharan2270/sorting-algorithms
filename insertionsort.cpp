@@ -1,3 +1,4 @@
+//logic entante first element is always sorted ankovali inka migtha unna elements unsorted so we have to sort it from there//
 void insertionsort(vector<int> arr){
   int n=arr.size();
   for(int i=1;i<n-1;i++){
