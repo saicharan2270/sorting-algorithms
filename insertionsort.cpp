@@ -1,3 +1,6 @@
+//time complexity - O(n^2)
+//space complexity - O(1)
+
 //logic entante first element is always sorted ankovali inka migtha unna elements unsorted so we have to sort it from there//
 void insertionsort(vector<int> arr){
   int n=arr.size();
