@@ -1,3 +1,6 @@
+// time complexity - O(n^2)
+//space complexity - O(1)
+
 void bubblesort(vector<int> arr){
   int n=arr.size();
   for(int i=0;i<n-1;i++){
