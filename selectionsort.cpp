@@ -1,3 +1,5 @@
+//time complexity - O(n^2)
+//space complexity - O(1)
 //selection  sort logic entante manam first i ni minimum element ankuntam tharuvatha j ni i+1 nunchi n dhaka traverse chstham andhulo okavela min element dhorikithe swap chstham
 void selectionsort(vector<int> arr){
   int n=arr.size();
