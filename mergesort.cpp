@@ -1,3 +1,6 @@
+//time complexity - O(nlogn)
+//space complexity - since dependent hence O(n)
+
 void merge(int arr[],int s,int mid,int e){
   int leftlen=mid-s+1;
   int rightlen=e-mid;
