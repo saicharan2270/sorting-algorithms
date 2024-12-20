@@ -1,4 +1,5 @@
-// time complexity - O(n^2)
+// worst case time complexity - O(n^2)
+//best case time complexity - O(n)
 //space complexity - O(1)
 
 void bubblesort(vector<int> arr){
